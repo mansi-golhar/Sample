@@ -8,6 +8,7 @@ public class Sample_2
 		
 		System.out.println("Mansi2");
 		//
+		
 		System.out.println("Viraj");
 	}
 }
