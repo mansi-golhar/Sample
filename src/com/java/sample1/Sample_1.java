@@ -6,6 +6,6 @@ public class Sample_1
 	{
 		//new class
 		System.out.println("Mansi");
-		
+		//second class
 	}
 }
